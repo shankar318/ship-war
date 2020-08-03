@@ -1,0 +1,4 @@
+# Created at 2020-08-03T09:48:33.022
+Boot Manifest-JAR contains absolute paths in classpath 'D:\DEVOPS\Devops softwares\maven\maven war\titanic\sea\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+
